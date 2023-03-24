@@ -10,11 +10,10 @@ vehicle spawner, ability to open lockers anywhere and more!
 - Free Camera (FOV customization too)
 - Object Spawner
 - Vehicle Spawner
-- Speed control
-  - Uses special keys to move player, default NUMPAD section (check Settings->Keys)
+- Speed Control
 - Zombies editor (Size & AI)
 - Access to unused Debug toggles
-
+- HUD Toggle
 
 Read more at:
 https://ermaccer.github.io/posts/dr3hook
