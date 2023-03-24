@@ -615,16 +615,6 @@ void DR3Menu::DrawMiscTab()
 {
 	bool& drawfe = *(bool*)(_addr(0x1416642D1));
 	ImGui::Checkbox("Draw Frontend/HUD", &drawfe);
-	return;
-
-	ImGui::Text("cGame::Instance %p", GetGame());
-
-	static char input[260] = {};
-	ImGui::InputText("Name", input, sizeof(input));
-
-	if (ImGui::Button("Spawn"))
-		CreateObject(input);
-
 }
 
 void DR3Menu::DrawSettings()
