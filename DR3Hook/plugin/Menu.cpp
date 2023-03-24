@@ -45,7 +45,6 @@ static const char* szVehicles[] = {
 		"dlc_foodtruck_object_no_fire",
 		"dlc_chopper_object",
 		"dlc_bikeslicer_object",
-		"dlc_rollerhog_mtndew_object",
 		"dlc_zdc_truck_object",
 		"dlc_zdc_truck_no_fire_object",
 		"cv_rollerhog_object",
